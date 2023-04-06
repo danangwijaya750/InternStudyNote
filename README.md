@@ -1,4 +1,7 @@
 # Wi-Fi RTT(Round-Trip-Time) Indoor Position
+
+[![hackmd-github-sync-badge](https://hackmd.io/ALI42rUTQ0OX2erIsFwL1w/badge)](https://hackmd.io/ALI42rUTQ0OX2erIsFwL1w)
+
 ###### tags: `Notes`
 
 ## References
